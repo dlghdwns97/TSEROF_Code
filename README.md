@@ -71,7 +71,7 @@
 <br>
 <br>
 
-# 3. 기능 명세서
+# 3. 기능 명세서 (최종 수정중)
 
 <details>
 <summary>UML, 기능 정리</summary>
@@ -88,8 +88,8 @@
 
 | 스크립트 | 내용 | 기여자 |
 | -- | -- | -- |
-| [GameManager](https://github.com/KimEoJin24/TSEROF/blob/main/TSEROF/Assets/Scripts/Global/GameManager.cs) | 게임 매니저 |  |
-| [SoundManager](https://github.com/KimEoJin24/TSEROF/blob/main/TSEROF/Assets/Scripts/Global/SoundManager.cs) | 사운드 매니저 |  |
+| [GameManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/GameManager.cs) | 게임 매니저 |  |
+| [SoundManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/SoundManager.cs) | 사운드 매니저 |  |
 
 ## **시작 화면**
 
