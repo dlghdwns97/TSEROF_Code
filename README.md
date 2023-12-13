@@ -1,8 +1,8 @@
 # TSEROF_Code
 
 # 만든 사람들
-<a href="https://github.com/dlghdwns97/TSEROF_Code/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dlghdwns97/TSEROF_Code"/>
+<a>
+  
 </a>
 
 # [🤍 팀 노션](https://teamsparta.notion.site/dda40607a8e8402584e29b9b1aaa54b0)
