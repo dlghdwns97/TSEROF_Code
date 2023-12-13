@@ -1,13 +1,8 @@
 # TSEROF_Code
 
 # 만든 사람들
-#### 김어진
-#### 정재훈
-#### 김형중
-#### 박지원
-#### 이홍준
-<a href="https://github.com/KimEoJin24/TSEROF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KimEoJin24/TSEROF"/>
+<a href="https://github.com/dlghdwns97/TSEROF_Code/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dlghdwns97/TSEROF_Code"/>
 </a>
 
 # [🤍 팀 노션](https://teamsparta.notion.site/dda40607a8e8402584e29b9b1aaa54b0)
