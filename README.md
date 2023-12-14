@@ -40,11 +40,11 @@
     - [F] : 상호작용 (In Stage 2)
     - [Esc] : 옵션
     - [Tab] : 업적창 (In StageSelect)
-#### **타겟 플랫폼** : Microsoft Windows
-#### **개발 기간** `2023.10.23 ~ 2023.12.15`
-#### **개발 환경** :<img width="30" height="30" alt="VS_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/dd8e3f5f-a671-4153-881b-6e39e445a80f"> <img width="30" height="30" alt="VS_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/a2070391-f97f-4a51-81c2-1c2728eb233c">
-#### **개발 엔진** : <img width="70" height="30" alt="Unity_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/a53ce756-54c2-44d7-870c-71637721bb2f"> 2022.3.2f1
-#### **버전 관리** : <img width="30" height="30" alt="VS_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/fb87bd07-fa87-4965-a582-468f3122bf41">
+- #### **타겟 플랫폼** : Microsoft Windows
+- #### **개발 기간** `2023.10.23 ~ 2023.12.15`
+- #### **개발 환경** :<img width="30" height="30" alt="VS_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/dd8e3f5f-a671-4153-881b-6e39e445a80f"> <img width="30" height="30" alt="VS_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/a2070391-f97f-4a51-81c2-1c2728eb233c">
+- #### **개발 엔진** : <img width="70" height="30" alt="Unity_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/a53ce756-54c2-44d7-870c-71637721bb2f"> 2022.3.2f1
+- #### **버전 관리** : <img width="30" height="30" alt="VS_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/fb87bd07-fa87-4965-a582-468f3122bf41">
 
 
 ---
