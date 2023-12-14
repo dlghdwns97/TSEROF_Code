@@ -94,10 +94,10 @@
 
 | 스크립트 | 내용 | 기여자 |
 | -- | -- | -- |
-| [GameManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/GameManager.cs) | 게임 매니저 |  |
-| [SoundManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/SoundManager.cs) | 사운드 매니저 |  |
+| [GameManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/GameManager.cs) | 게임 매니저 | 김형중 |
+| [SoundManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/SoundManager.cs) | 사운드 매니저 | 김형중 |
 | [Stage2Manager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/Stage2Manager.cs) | Stage 2 관리 | 정재훈, 박지원 |
-| [StartStoryUI](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/StartStoryUI.cs) | 스토리 관리 |  |
+| [StartStoryUI](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/StartStoryUI.cs) | 스토리 관리 | 김형중 |
 | [GimmickForObject](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/GimmickForObject.cs) | Stage 3 관리 | 이홍준 |
 | [EndingController](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/EndingController.cs) | 전체 스테이지 클리어 및 엔딩씬 관리 | 박지원, 정재훈 |
 
