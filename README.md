@@ -140,7 +140,7 @@
 | [HiddenItemCollected](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/Etc/HiddenItemCollected.cs) | 히든 아이템 수집 관리 | 김어진 |
 | [HiddenItem](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/HiddenItem.cs) | 히든 아이템 | 김어진 |
 | [SerializableDictionary](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/SerializableTypes/SerializableDictionary.cs) | 히든 아이템 정보를 저장하는 딕셔너리 | 김어진 |
-| [PuzzleParticle](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/PuzzleParticle.cs) | 스테이지 별 퍼즐 파티클 | |
+| [PuzzleParticle](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/PuzzleParticle.cs) | 스테이지 별 퍼즐 파티클 | 김형중 |
 
 ## **캐릭터**
 
@@ -152,8 +152,8 @@
 | [Respawn](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/Respawn.cs) | 플레이어 리스폰 | 이홍준 |
 | [RunSFX](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/RunSFX.cs) | 지형별 발걸음 소리 | 김형중 |
 | [TopViewPlayer](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/TopViewPlayer.cs) | 탑뷰에서의 플레이어 | 박지원 |
-| [JumpEffect](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/JumpEffect/JumpEffect.cs) | 점프 효과 |  |
-| [ObjectPoolJump](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/JumpEffect/ObjectPoolJump.cs) | 점프 효과에 필요한 오브젝트 풀링 |  |
+| [JumpEffect](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/JumpEffect/JumpEffect.cs) | 점프 효과 | 김형중 |
+| [ObjectPoolJump](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/JumpEffect/ObjectPoolJump.cs) | 점프 효과에 필요한 오브젝트 풀링 | 김형중 |
 
 ## **카메라**
 
