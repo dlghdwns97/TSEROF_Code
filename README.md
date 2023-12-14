@@ -1,9 +1,6 @@
 # TSEROF_Code
 
 # 만든 사람들
-![141602161](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/f8e93c65-36f1-448f-ad59-f3d049d926b7)(https://github.com/KimEoJin24)
-![75034052](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/14c91ba0-41dc-4e86-973e-67e0a00ad9ab)(https://github.com/toadsam)
-![141483527](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/3cf04c2f-c8e2-4724-8aad-fa81ceed822d)
 
 
 # [🤍 팀 노션](https://teamsparta.notion.site/dda40607a8e8402584e29b9b1aaa54b0)
@@ -218,3 +215,13 @@
 
 - [KUBIKOS - 3D Cube World](https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-world-117341)
 - [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+- [Interactive Physical Door Pack](https://assetstore.unity.com/packages/tools/physics/interactive-physical-door-pack-163249)
+- [Forest - Low Poly Toon Battle Arena / Tower Defense Pack](https://assetstore.unity.com/packages/3d/environments/forest-low-poly-toon-battle-arena-tower-defense-pack-100080)
+- [URP Stylized Water Shader - Proto Series](https://assetstore.unity.com/packages/vfx/shaders/urp-stylized-water-shader-proto-series-187485)
+- [Fantasy Wooden GUI : Free](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
+- [3D The Blacksmith's House](https://assetstore.unity.com/packages/3d/environments/fantasy/3d-the-blacksmith-s-house-252972)
+- [Magic Effects FREE](https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933)
+- [The Portal Collection](https://assetstore.unity.com/packages/3d/environments/fantasy/the-portal-collection-205438)
+- [Epic Toon VFX 2](https://assetstore.unity.com/packages/vfx/particles/spells/epic-toon-vfx-2-157651)
+- [Nature Sound FX](https://assetstore.unity.com/packages/audio/sound-fx/nature-sound-fx-180413)
+- [Toon Fantasy Nature](https://assetstore.unity.com/packages/3d/environments/landscapes/toon-fantasy-nature-215197)
