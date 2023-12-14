@@ -7,7 +7,7 @@
 
 # [🤍 팀 노션](https://teamsparta.notion.site/dda40607a8e8402584e29b9b1aaa54b0)
 
-# [🎞 시연 영상]()
+# [🎞 시연 영상](https://youtu.be/1Lm-lpVsmq8)
 
 # 목차
 
