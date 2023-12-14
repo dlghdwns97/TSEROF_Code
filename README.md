@@ -40,7 +40,7 @@
     - [F] : 상호작용 (In Stage 2)
     - [Esc] : 옵션
     - [Tab] : 업적창 (In StageSelect)
-- **개발 환경** : ![Unity_Logo](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/a53ce756-54c2-44d7-870c-71637721bb2f){: width="114" height="49"} 2022.3.2f1
+- **개발 환경** : <img width="114" height="49" alt="Unity_Logo" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/a53ce756-54c2-44d7-870c-71637721bb2f"> 2022.3.2f1
 - **타겟 플랫폼** : Microsoft Windows
 - **개발 기간** `2023.10.23 ~ 2023.12.15`
 
