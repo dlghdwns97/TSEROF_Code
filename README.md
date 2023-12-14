@@ -1,9 +1,10 @@
 # TSEROF_Code
 
 # 만든 사람들
-<a href="https://github.com/dlghdwns97/TSEROF_Code/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dlghdwns97/TSEROF_Code" />
-</a>
+![141602161](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/f8e93c65-36f1-448f-ad59-f3d049d926b7)(https://github.com/KimEoJin24)
+![75034052](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/14c91ba0-41dc-4e86-973e-67e0a00ad9ab)(https://github.com/toadsam)
+![141483527](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/3cf04c2f-c8e2-4724-8aad-fa81ceed822d)
+
 
 # [🤍 팀 노션](https://teamsparta.notion.site/dda40607a8e8402584e29b9b1aaa54b0)
 
