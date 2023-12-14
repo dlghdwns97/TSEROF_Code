@@ -107,7 +107,6 @@
 | -- | -- | -- |
 | [AsyncLoading](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/AsyncLoading.cs) | 로딩창 | 김어진 |
 | [ChangeSceneManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/ChangeSceneManager.cs) | 스테이지 선택 매니저 | 김형중 |
-| [ClearScene](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/ClearScene.cs) | | 김어진 |
 | [Stage1ClearCutScene](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/Stage1ClearCutScene.cs) | 스테이지 1 클리어 화면 | 김어진 |
 
 ## **시작 화면**
@@ -136,9 +135,7 @@
 | [FileDataHandler](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/DataPersistence/FileDataHandler.cs) | JSON 데이터 핸들러 | 김어진 |
 | [IDataPersistence](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/DataPersistence/IDataPersistence.cs) | JSON 데이터 불러오기/저장 관리 | 김어진 |
 | [GameData](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/Data/GameData.cs) | JSON 데이터 | 김어진 |
-| [GameEventsManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/Etc/GameEventsManager.cs) | 게임 이벤트 매니저 | 김어진 |
-| [HiddenItemCollected](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/Etc/HiddenItemCollected.cs) | 히든 아이템 수집 관리 | 김어진 |
-| [HiddenItem](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/HiddenItem.cs) | 히든 아이템 | 김어진 |
+| [HiddenItem](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/HiddenItem.cs) | 히든 아이템 관리 | 김어진 |
 | [SerializableDictionary](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/SerializableTypes/SerializableDictionary.cs) | 히든 아이템 정보를 저장하는 딕셔너리 | 김어진 |
 | [PuzzleParticle](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Json/HiddenItems/PuzzleParticle.cs) | 스테이지 별 퍼즐 파티클 | 김형중 |
 
