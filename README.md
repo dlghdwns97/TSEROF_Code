@@ -105,10 +105,10 @@
 
 | 스크립트 | 내용 | 기여자 |
 | -- | -- | -- |
-| [AsyncLoading](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/AsyncLoading.cs) | 로딩창 |  |
-| [ChangeSceneManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/ChangeSceneManager.cs) | 스테이지 선택 매니저 |  |
-| [ClearScene](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/ClearScene.cs) | |  |
-| [Stage1ClearCutScene](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/Stage1ClearCutScene.cs) | 스테이지 1 클리어 화면 |  |
+| [AsyncLoading](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/AsyncLoading.cs) | 로딩창 | 김어진 |
+| [ChangeSceneManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/ChangeSceneManager.cs) | 스테이지 선택 매니저 | 김어진 |
+| [ClearScene](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/ClearScene.cs) | | 김어진 |
+| [Stage1ClearCutScene](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/ChangeScene/Stage1ClearCutScene.cs) | 스테이지 1 클리어 화면 | 김어진 |
 
 ## **시작 화면**
 
