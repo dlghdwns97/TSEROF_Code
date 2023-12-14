@@ -74,14 +74,24 @@
 <details>
 <summary>UML, 기능 정리</summary>
 
-![클라이언트 구조]<img width="1000" alt="어진이와_아이들_(2)" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/064d53e4-f6ff-4b3e-b92c-6ce5fdf6596a">
+#### 클라이언트 구조
+<img width="1000" alt="어진이와_아이들_(2)" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/064d53e4-f6ff-4b3e-b92c-6ce5fdf6596a">
 
-![Json UML](https://github.com/KimEoJin24/TSEROF/assets/73785455/9ac54799-3078-4d6f-8774-aa33c621e336)
-![StageSelect UML](https://github.com/KimEoJin24/TSEROF/assets/73785455/8e18c49f-5d53-443c-9d2f-942a19f43b04)
-![Player UML](https://github.com/KimEoJin24/TSEROF/assets/73785455/10734b51-ef35-454b-8061-f4721dec3b41)
-![Gimmick(정재훈)](https://github.com/KimEoJin24/TSEROF/assets/73785455/1cec1605-e430-4544-94a2-83c063205e93)
-![Gimmick(이홍준)](https://github.com/KimEoJin24/TSEROF/assets/73785455/706e2897-272c-4904-884a-c114e43787c3)
+#### JSON
+![Untitled](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/35f9aa2a-85c8-45c9-a4db-edcc2e458789)
 
+#### 스테이지 관리
+<img width="1000" alt="어진이와_아이들_(3)" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/3182fc8c-3fa6-4227-b8b9-fd398cc5f4db">
+
+#### 플레이어
+![Untitled (1)](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/88c687d6-285b-4044-a282-988cb3b34639)
+
+#### 스테이지 2
+![Untitled (2)](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/5a8e1a38-98ea-4857-b238-3e43e15446b3)
+![Untitled (3)](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/3f59170e-fc00-41c5-8119-0cb554f73d27)
+
+#### 스테이지 3
+![stage3uml](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/904bf4b7-7fec-45a0-90de-ae5189fcff0e)
 </details>
 
 ## **매니저**
