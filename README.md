@@ -21,6 +21,9 @@
 <br>
 
 # 게임 미리보기
+![StartScene](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/f3ceaa59-3157-4c13-91f0-4132d8e93e0f)
+![StageSelectGIF](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/357a6c6c-fc8b-4b5e-8638-fc987386b585)
+![Stage3](https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/94c871c7-06c4-464c-a24e-fba756980607)
 
 ---
 <br>
@@ -66,10 +69,12 @@
 <br>
 <br>
 
-# 3. 기능 명세서 (최종 수정중)
+# 3. 기능 명세서
 
 <details>
 <summary>UML, 기능 정리</summary>
+
+![클라이언트 구조]<img width="1000" alt="어진이와_아이들_(2)" src="https://github.com/dlghdwns97/TSEROF_Code/assets/73785455/064d53e4-f6ff-4b3e-b92c-6ce5fdf6596a">
 
 ![Json UML](https://github.com/KimEoJin24/TSEROF/assets/73785455/9ac54799-3078-4d6f-8774-aa33c621e336)
 ![StageSelect UML](https://github.com/KimEoJin24/TSEROF/assets/73785455/8e18c49f-5d53-443c-9d2f-942a19f43b04)
