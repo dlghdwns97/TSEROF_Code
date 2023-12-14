@@ -96,9 +96,10 @@
 | -- | -- | -- |
 | [GameManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/GameManager.cs) | 게임 매니저 |  |
 | [SoundManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/SoundManager.cs) | 사운드 매니저 |  |
-| [Stage2Manager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/Stage2Manager.cs) | Stage 2 관리 |  |
-| [StartStoryUI](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/Stage2Manager.cs) | 스토리 관리 |  |
+| [Stage2Manager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/Stage2Manager.cs) | Stage 2 관리 | 정재훈, 박지원 |
+| [StartStoryUI](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/StartStoryUI.cs) | 스토리 관리 |  |
 | [GimmickForObject](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/GimmickForObject.cs) | Stage 3 관리 | 이홍준 |
+| [EndingController](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Manager/EndingController.cs) | 전체 스테이지 클리어 및 엔딩씬 관리 | 박지원, 정재훈 |
 
 ## **Scene 변경 관련**
 
@@ -146,11 +147,11 @@
 | 스크립트 | 내용 | 기여자 |
 | -- | -- | -- |
 | [Player](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/Player.cs) | 플레이어 총괄 | 박지원 |
-| [ForceReceiver](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/ForceReceiver.cs) | 플레이어 이동 관리 | 박지원 |
+| [ForceReceiver](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/ForceReceiver.cs) | 플레이어 점프 및 상태 관리 | 박지원 |
 | [PlayerInput](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/PlayerInput.cs) | 플레이어 이동 가능상태 변경 | 박지원 |
 | [Respawn](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/Respawn.cs) | 플레이어 리스폰 | 이홍준 |
 | [RunSFX](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/RunSFX.cs) | 지형별 발걸음 소리 | 김형중 |
-| [TopViewPlayer](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/TopViewPlayer.cs) | 캐릭터 탑뷰 |  |
+| [TopViewPlayer](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/TopViewPlayer.cs) | 탑뷰에서의 플레이어 | 박지원 |
 | [JumpEffect](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/JumpEffect/JumpEffect.cs) | 점프 효과 |  |
 | [ObjectPoolJump](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Player/JumpEffect/ObjectPoolJump.cs) | 점프 효과에 필요한 오브젝트 풀링 |  |
 
@@ -170,29 +171,29 @@
 | [JumpMush](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage1/JumpMush.cs) | 캐릭터를 점프시키는 점프대 | 이홍준 |
 | [Log](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage1/Log.cs) | 캐릭터가 밟으면 잠시 후 떨어지는 발판 | 이홍준 |
 | [LogChild](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage1/LogChild.cs) | Log 오브젝트에 신호 전달 | 이홍준 |
-| [Obstacles](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage1/Obstacles.cs) | 캐릭터가 닿으면 밀쳐버리는 토네이도 | 정재훈 |
+| [Obstacles](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage1/Obstacles.cs) | 캐릭터가 닿으면 밀쳐버리는 토네이도 | 정재훈, 박지원 |
 
 | 스크립트 | 내용 | 기여자 |
 | -- | -- | -- |
-| [CubeType](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/CubeType.cs) | 큐브 블록 속성 |  |
+| [CubeType](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/CubeType.cs) | 큐브 블록 속성 | 정재훈 |
 | [FallingObject](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/FallingObject.cs) | 떨어지는 고드름 | 정재훈 |
-| [FireTrap](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/FireTrap.cs) | 화염을 뿜는 트랩 |  |
+| [FireTrap](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/FireTrap.cs) | 화염을 뿜는 트랩 | 박지원, 정재훈 |
 | [Hammer](https://github.com/KimEoJin24/TSEROF/blob/main/TSEROF/Assets/Scripts/Gimmick/Hammer.cs) | 돌아가면서 플레이어를 공격하는 해머 | 정재훈 |
-| [LaserPatternManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/LaserPatternManager.cs) | 레이저 패턴을 관리하는 매니저 |  |
-| [LaserReceiver](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/LaserReceiver.cs) | 레이저 온오프 |  |
-| [LaserTransmitter](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/LaserTransmitter.cs) | 레이저 조절 |  |
-| [Leaf](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/Leaf.cs) | 레이저 기믹에 쓰이는 나뭇잎 발판 |  |
-| [Lebu](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/Lebu.cs) | 레버를 이용한 입구 | 정재훈 |
+| [LaserPatternManager](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/LaserPatternManager.cs) | 레이저 패턴을 관리하는 매니저 | 박지원 |
+| [LaserReceiver](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/LaserReceiver.cs) | 레이저 수신부 | 박지원 |
+| [LaserTransmitter](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/LaserTransmitter.cs) | 레이저 발신부 | 박지원 |
+| [Leaf](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/Leaf.cs) | 나뭇잎 발판 | 박지원 |
+| [Lebu](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/Lebu.cs) | 레버를 이용한 입구 | 정재훈, 박지원 |
 | [LebuMoving](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/LebuMoving.cs) | 레버에 따른 입구 이동통로 생성 | 정재훈 |
-| [MovingPlatform](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/MovingPlatform.cs) | 웨이포인트에 따른 이동 발판 | 정재훈 |
+| [MovingPlatform](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/MovingPlatform.cs) | 웨이포인트에 따른 이동 발판 | 정재훈, 박지원 |
 | [WaypointPath](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/WaypointPath.cs) | 이동 발판 웨이포인트 지정 | 정재훈 |
-| [NeedleTrap](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/NeedleTrap.cs) | 가시 트랩 |  |
-| [RotationCube](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/RotationCube.cs) | 큐브 움직임 |  |
+| [NeedleTrap](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/NeedleTrap.cs) | 가시 트랩 | 박지원 |
+| [RotationCube](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/RotationCube.cs) | 큐브 움직임 | 정재훈 |
 | [RotationObstacle](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/RotationObstacle.cs) | 움직이는 회전 장애물 | 정재훈 |
 | [SideNeedleTraps](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/SideNeedleTraps.cs) | 지정된 곳에 가시 이동 | 정재훈 |
 | [Transparent](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/Transparent.cs) | 투명한 가시벽 설정 | 정재훈 |
-| [Transparents](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/Transparents.cs) | 전체적인 가시벽을 관리 | 정재훈 |
-| [TransparentObject](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/TransparentObject.cs) | 닿으면 드러나는 투명한 오브젝트 |  |
+| [Transparents](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/Transparents.cs) | 전체적인 가시벽을 관리 | 정재훈, 박지원 |
+| [TransparentObject](https://github.com/dlghdwns97/TSEROF_Code/blob/main/Scripts/Gimmick/Stage2/TransparentObject.cs) | 닿으면 드러나는 투명한 오브젝트 | 박지원, 정재훈 |
 
 | 스크립트 | 내용 | 기여자 |
 | -- | -- | -- |
