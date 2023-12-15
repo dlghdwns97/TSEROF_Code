@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PressBtn : MonoBehaviour
+public class PressBtn : GimmickForObject
 {
     public GameObject btn;
     public float xdir;
@@ -27,5 +27,10 @@ public class PressBtn : MonoBehaviour
             _gimmickForObject.GetComponent<GimmickForObject>().MovingParentObjectWithVelocity(btn, 0, 0, 0);
             other.gameObject.transform.SetParent(null);
         }
+    }
+    public override void MovingObjectWithVelocity(GameObject obj, float x, float y, float z)
+    {
+        if (obj != null)
+            obj.GetComponent<Rigidbody>().velocity = new Vector3(x, y, z);
     }
 }
