@@ -1,7 +1,11 @@
 # TSEROF_Code
 
 # 만든 사람들
-
+- ### 김어진
+- ### 김형중
+- ### 정재훈
+- ### 박지원
+- ### 이홍준
 
 # [🤍 팀 노션](https://teamsparta.notion.site/dda40607a8e8402584e29b9b1aaa54b0)
 
