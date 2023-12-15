@@ -16,7 +16,7 @@ public class PressBtn : GimmickForObject
         
         if (forceReceiver != null && other.CompareTag("Player"))
         {
-            _gimmickForObject.GetComponent<GimmickForObject>().MovingParentObjectWithVelocity(btn, xdir, ydir, zdir);
+            MovingObjectWithVelocity(btn, xdir, ydir, zdir);
             other.gameObject.transform.SetParent(btn.transform.parent);
         }
     }
@@ -24,7 +24,7 @@ public class PressBtn : GimmickForObject
     {
         if (other != null && other.CompareTag("Player"))
         {
-            _gimmickForObject.GetComponent<GimmickForObject>().MovingParentObjectWithVelocity(btn, 0, 0, 0);
+            MovingObjectWithVelocity(btn, 0, 0, 0);;
             other.gameObject.transform.SetParent(null);
         }
     }
